@@ -44,7 +44,7 @@ Tramsform image path / `img2str.url` class to ANSI string
    will from this
    ![colortest-original](readme-images/colortest.png)  
    to this  
-   ![colortest-tramsformed](readme-images/colortest-tramsformed-50x50.png)  
+   ![colortest-transformed](readme-images/colortest-transformed-50x50.png)  
 
    or this  
 
@@ -54,7 +54,7 @@ Tramsform image path / `img2str.url` class to ANSI string
 
    ![colortest-original](readme-images/caixukun.png)  
    to this  
-   ![colortest-tramsformed](readme-images/caixukun-tramsformed-full.png)  
+   ![colortest-transformed](readme-images/caixukun-transformed-full.png)  
 
 ### `Mat2String(imageSrc, size=None)`
 
