@@ -27,7 +27,7 @@ Please use a terminal that can display ANSI strings and TrueColor to run (exampl
 
 ### `image2String(imageSrc, newSize=None)`
 
-Convert image path / `img2str.url` class to ANSI string
+Tramsform image path / `img2str.url` class to ANSI string
 
    parameters:&nbsp;  
    imageSrc: image path(str) or image url(`img2str.url`)  
@@ -44,7 +44,7 @@ Convert image path / `img2str.url` class to ANSI string
    will from this
    ![colortest-original](readme-images/colortest.png)  
    to this  
-   ![colortest-converted](readme-images/colortest-converted-50x50.png)  
+   ![colortest-tramsformed](readme-images/colortest-tramsformed-50x50.png)  
 
    or this  
 
@@ -54,7 +54,7 @@ Convert image path / `img2str.url` class to ANSI string
 
    ![colortest-original](readme-images/caixukun.png)  
    to this  
-   ![colortest-converted](readme-images/caixukun-converted-full.png)  
+   ![colortest-tramsformed](readme-images/caixukun-tramsformed-full.png)  
 
 ### `Mat2String(imageSrc, size=None)`
 
